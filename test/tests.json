@@ -1,0 +1,10 @@
+{
+    "fin-dan": {
+        "input": "fin-dan-input.txt",
+        "mode": "fin-dan"
+    },
+    "dan-fin": {
+        "input": "dan-fin-input.txt",
+        "mode": "dan-fin"
+    }
+}
